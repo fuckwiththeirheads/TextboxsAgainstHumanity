@@ -22,11 +22,11 @@ body {
 #Game {
 	margin:auto;
 	width:800px;
-	height:600px;
+	height:500px;
 	font-family:Tahoma, Geneva, sans-serif;
 }
 #Game:hover {
-	background:url();
+	background:url(http://libertygalaxy.com/wp-content/uploads/2015/12/marxist_wars.png);
 }
 #Game h1 {
 	margin:auto;
