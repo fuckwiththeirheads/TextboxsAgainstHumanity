@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	background:#FFC;
+}
+#Title {
+	font-family:"Comic Sans MS", cursive;
+	margin:auto;
+	width:40%;
+}
+#directory-index {
+	list-style-type:none;
+	margin:auto;
+	width:40%;
+	display:block;
+}
+#directory-index li {
+	color:#000;
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+}
+#Game {
+	margin:auto;
+	width:800px;
+	height:600px;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+#Game:hover {
+	background:url(https://peopledotcom.files.wordpress.com/2016/08/jeb-bush-01-800.jpg);
+}
+#Game h1 {
+	margin:auto;
+	width:40%;
+}
